@@ -1,0 +1,14 @@
+- type: marking
+  id: Eyewhite
+  bodyPart: Snout
+  markingCategory: Snout
+  forcedColoring: true
+  speciesRestriction: [Pony]
+  sprites:
+  - sprite: Mobs/Customization/ponyparts.rsi
+    state: Eyewhite
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+        color: "#ffffff"

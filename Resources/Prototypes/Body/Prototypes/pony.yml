@@ -1,0 +1,49 @@
+﻿- type: body
+  id: Pony
+  name: "pony"
+  root: torso
+  slots:
+    head:
+      part: HeadPony
+      connections:
+      - torso
+      organs:
+        brain: OrganPonyBrain
+        eyes: OrganPonyEyes
+    torso:
+      part: TorsoPony
+      connections:
+      - right_arm
+      - left_arm
+      - right_leg
+      - left_leg
+      organs:
+        heart: OrganPonyHeart
+        lungs: OrganPonyLungs
+        stomach: OrganPonyStomach
+        liver: OrganPonyLiver
+        kidneys: OrganPonyKidneys
+    right_arm:
+      part: RightArmPony
+      connections:
+      - right_hand
+    left_arm:
+      part: LeftArmPony
+      connections:
+      - left_hand
+    right_hand:
+      part: RightHandPony
+    left_hand:
+      part: LeftHandPony
+    right_leg:
+      part: RightLegPony
+      connections:
+      - right_foot
+    left_leg:
+      part: LeftLegPony
+      connections:
+      - left_foot
+    right_foot:
+      part: RightFootPony
+    left_foot:
+      part: LeftFootPony

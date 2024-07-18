@@ -1,0 +1,15 @@
+marking-PonyTailAutocrat = Autocrat
+marking-PonyTailBookworm = Bookworm
+marking-PonyTailButtons = Buttons
+marking-PonyTailCottage = Cottage
+marking-PonyTailDitzy = Ditzy
+marking-PonyTailElegance = Elegance
+marking-PonyTailOrderly = Orderly
+marking-PonyTailParty = Party
+marking-PonyTailSporty = Sporty
+marking-PonyTailSunny = Sunny
+marking-PonyTailSweet = Sweet
+marking-PonyTailTimelord = Timelord
+marking-PonyTailDrops = Drops
+marking-PonyTailStrum = Strum
+marking-PonyTailSugarcube = Sugarcube

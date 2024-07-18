@@ -1,0 +1,14 @@
+marking-PonyHairAutocrat = Autocrat
+marking-PonyHairBookworm = Bookworm
+marking-PonyHairButtons = Buttons
+marking-PonyHairCottage = Cottage
+marking-PonyHairDitzy = Ditzy
+marking-PonyHairElegance = Elegance
+marking-PonyHairOrderly = Orderly
+marking-PonyHairParty = Party
+marking-PonyHairSporty = Sporty
+marking-PonyHairSunny = Sunny
+marking-PonyHairSweet = Sweet
+marking-PonyHairTimelord = Timelord
+marking-PonyHairDrops = Drops
+marking-PonyHairStrum = Strum

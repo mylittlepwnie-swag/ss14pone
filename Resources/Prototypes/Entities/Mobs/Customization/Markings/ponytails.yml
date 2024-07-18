@@ -1,0 +1,134 @@
+- type: marking
+  id: PonyTailAutocrat
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Autocrat
+ 
+- type: marking
+  id: PonyTailBookworm
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Bookworm
+
+- type: marking
+  id: PonyTailButtons
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Buttons
+      
+- type: marking
+  id: PonyTailCottage
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Cottage
+      
+- type: marking
+  id: PonyTailDitzy
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Ditzy
+ 
+- type: marking
+  id: PonyTailElegance
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Elegance
+
+- type: marking
+  id: PonyTailOrderly
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Orderly
+      
+- type: marking
+  id: PonyTailParty
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Party
+      
+- type: marking
+  id: PonyTailSporty
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Sporty
+      
+- type: marking
+  id: PonyTailSunny
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Sunny
+      
+- type: marking
+  id: PonyTailSweet
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Sweet
+      
+- type: marking
+  id: PonyTailTimelord
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Timelord
+      
+- type: marking
+  id: PonyTailDrops
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Drops
+      
+- type: marking
+  id: PonyTailStrum
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Strum
+      
+- type: marking
+  id: PonyTailSugarcube
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponytails.rsi
+      state: Sugarcube

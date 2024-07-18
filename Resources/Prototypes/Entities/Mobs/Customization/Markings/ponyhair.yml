@@ -1,0 +1,125 @@
+- type: marking
+  id: PonyHairAutocrat
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Autocrat
+ 
+- type: marking
+  id: PonyHairBookworm
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Bookworm
+
+- type: marking
+  id: PonyHairButtons
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Buttons
+      
+- type: marking
+  id: PonyHairCottage
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Cottage
+      
+- type: marking
+  id: PonyHairDitzy
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Ditzy
+ 
+- type: marking
+  id: PonyHairElegance
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Elegance
+
+- type: marking
+  id: PonyHairOrderly
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Orderly
+      
+- type: marking
+  id: PonyHairParty
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Party
+      
+- type: marking
+  id: PonyHairSporty
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Sporty
+      
+- type: marking
+  id: PonyHairSunny
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Sunny
+      
+- type: marking
+  id: PonyHairSweet
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Sweet
+      
+- type: marking
+  id: PonyHairTimelord
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Timelord
+      
+- type: marking
+  id: PonyHairDrops
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Drops
+      
+- type: marking
+  id: PonyHairStrum
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [Pony]
+  sprites:
+    - sprite: Mobs/Customization/ponyhair.rsi
+      state: Strum

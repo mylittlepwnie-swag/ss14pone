@@ -1,48 +1,35 @@
 - type: lobbyBackground
-  id: Warden
-  background: /Textures/LobbyScreens/warden.webp
+  id: bg1
+  background: /Textures/LobbyScreens/bg1.webp
 
 - type: lobbyBackground
-  id: Pharmacy
-  background: /Textures/LobbyScreens/pharmacy.webp
+  id: bg2
+  background: /Textures/LobbyScreens/bg2.webp
 
 - type: lobbyBackground
-  id: SSXIV
-  background: /Textures/LobbyScreens/ssxiv.webp
+  id: bg3
+  background: /Textures/LobbyScreens/bg3.webp
 
 - type: lobbyBackground
-  id: Susstation
-  background: /Textures/LobbyScreens/susstation.webp
+  id: bg4
+  background: /Textures/LobbyScreens/bg4.webp
 
 - type: lobbyBackground
-  id: SkellyVsTheRev
-  background: /Textures/LobbyScreens/skellyvstherev.webp
+  id: bg5
+  background: /Textures/LobbyScreens/bg5.webp
 
 - type: lobbyBackground
-  id: Doomed
-  background: /Textures/LobbyScreens/doomed.webp
+  id: bg6
+  background: /Textures/LobbyScreens/bg6.webp
 
 - type: lobbyBackground
-  id: Blueprint
-  background: /Textures/LobbyScreens/blueprint.webp
+  id: bg7
+  background: /Textures/LobbyScreens/bg7.webp
 
 - type: lobbyBackground
-  id: Behonker
-  background: /Textures/LobbyScreens/behonker.webp
+  id: bg8
+  background: /Textures/LobbyScreens/bg8.webp
 
 - type: lobbyBackground
-  id: TerminalStation
-  background: /Textures/LobbyScreens/terminalstation.webp
-
-- type: lobbyBackground
-  id: JustAWeekAway
-  background: /Textures/LobbyScreens/justaweekaway.webp
-
-- type: lobbyBackground
-  id: JaniShootout
-  background: /Textures/LobbyScreens/janishootout.webp
-
-- type: lobbyBackground
-  id: ReclaimerNuke
-  background: /Textures/LobbyScreens/reclaimer-nuke.webp
-  
+  id: bg9
+  background: /Textures/LobbyScreens/bg9.webp

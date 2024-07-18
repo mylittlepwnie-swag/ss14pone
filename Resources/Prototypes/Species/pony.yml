@@ -1,0 +1,163 @@
+- type: species
+  id: Pony
+  name: species-name-pony
+  roundStart: true
+  prototype: MobPony
+  sprites: MobPonySprites
+  markingLimits: MobPonyMarkingLimits
+  dollPrototype: MobPonyDummy
+  skinColoration: Hues
+  maleFirstNames: names_pony
+  femaleFirstNames: names_pony
+  lastNames: names_pony
+
+# The lack of a layer means that
+# this person cannot have round-start anything
+# applied to that layer. It has to instead
+# be defined as a 'custom base layer'
+# in either the mob's starting marking prototype,
+# or it has to be added in C#.
+- type: speciesBaseSprites
+  id: MobPonySprites
+  sprites:
+    Head: MobPonyHead
+    Hair: MobPonyAnyMarking
+    FacialHair: MobPonyAnyMarking
+    Snout: MobPonyAnyMarking
+    Chest: MobPonyTorso
+    Eyes: MobPonyEyes
+    LArm: MobPonyLArm
+    RArm: MobPonyRArm
+    LHand: MobPonyLHand
+    RHand: MobPonyRHand
+    LLeg: MobPonyLLeg
+    RLeg: MobPonyRLeg
+    LFoot: MobPonyLFoot
+    RFoot: MobPonyRFoot
+
+- type: markingPoints
+  id: MobPonyMarkingLimits
+  onlyWhitelisted: true
+  points:
+    Hair:
+      points: 1
+      required: true
+    FacialHair:
+      points: 1
+      required: false
+    Snout:
+      points: 1
+      required: false
+      defaultMarkings: [ Eyewhite ]
+    Tail: # the cat tail joke
+      points: 0
+      required: true
+    HeadTop: # the cat ear joke
+      points: 0
+      required: false
+    Chest:
+      points: 1
+      required: false
+    Legs:
+      points: 2
+      required: false
+    Arms:
+      points: 2
+      required: false
+
+- type: humanoidBaseSprite
+  id: MobPonyEyes
+  baseSprite:
+    sprite: Mobs/Customization/ponyeyes.rsi
+    state: eyes
+
+- type: humanoidBaseSprite
+  id: MobPonyAnyMarking
+
+- type: humanoidBaseSprite
+  id: MobPonyMarkingMatchSkin
+  markingsMatchSkin: true
+
+- type: humanoidBaseSprite
+  id: MobPonyHead
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobPonyHeadMale
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobPonyHeadFemale
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobPonyTorso
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobPonyTorsoMale
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobPonyTorsoFemale
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobPonyLLeg
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobPonyLArm
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobPonyLHand
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobPonyLFoot
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobPonyRLeg
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobPonyRArm
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobPonyRHand
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobPonyRFoot
+  baseSprite:
+    sprite: Mobs/Species/Pony/parts.rsi
+    state: r_foot

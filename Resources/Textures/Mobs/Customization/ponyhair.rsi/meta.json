@@ -1,0 +1,67 @@
+{
+    "version": 1,
+    "size": {
+      "x": 32,
+      "y": 32
+    },
+    "copyright": "stolen from like 10 different people lmao ! ",
+    "license": "CC-BY-SA-3.0",
+    "states": [
+      {
+        "name": "Autocrat",
+        "directions": 4
+      },
+      {
+        "name": "Bookworm",
+        "directions": 4
+      },
+      {
+        "name": "Buttons",
+        "directions": 4
+      },
+      {
+        "name": "Cottage",
+        "directions": 4
+      },
+      {
+        "name": "Ditzy",
+        "directions": 4
+      },
+      {
+        "name": "Elegance",
+        "directions": 4
+      },
+      {
+        "name": "Orderly",
+        "directions": 4
+      },
+      {
+        "name": "Party",
+        "directions": 4
+      },
+      {
+        "name": "Sporty",
+        "directions": 4
+      },
+      {
+        "name": "Sunny",
+        "directions": 4
+      },
+      {
+        "name": "Sweet",
+        "directions": 4
+      },
+	  {
+        "name": "Drops",
+        "directions": 4
+      },
+	  {
+        "name": "Strum",
+        "directions": 4
+      },
+      {
+        "name": "Timelord",
+        "directions": 4
+      }
+    ]
+  }
